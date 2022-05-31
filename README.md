@@ -1,7 +1,9 @@
 ## Hi there 👋 Nice to see you!
 
 ### Welcome to my page!
-I'm Kirill, passionate Front-end developer from  Lipetsk, Russia.
+I'm Kirill, passionate self-taught frontend web developer from  Lipetsk, Russia.
+For now, i'm looking for my first developer job. Any suggestions?
+[Invite me to an interview](https://t.me/kirill_mihalych)
 
 ### Things I code with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
