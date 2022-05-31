@@ -2,6 +2,7 @@
 
 ### Welcome to my page!
 I'm Kirill, passionate self-taught frontend web developer from  Lipetsk, Russia.
+
 For now, i'm looking for my first developer job. Any suggestions?
 [Invite me to an interview](https://t.me/kirill_mihalych)
 
