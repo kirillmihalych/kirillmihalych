@@ -14,7 +14,7 @@ I'm Kirill, passionate Front-end developer from  Lipetsk, Russia.
 ## My latest projects
 ### 💖  [E-commerce shop project](https://github.com/kirillmihalych/furniture-store)
 ### 💚  [Search GitHub profiles](https://github.com/kirillmihalych/search_users)
-### 💜  [ToDo List](https://github.com/kirillmihalych/TODOS)
+### 💜  [Simple ToDo manager](https://github.com/kirillmihalych/TODOS)
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirill_mihalych)
