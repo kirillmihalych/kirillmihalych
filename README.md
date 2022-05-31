@@ -1,4 +1,4 @@
-# Hi there 👋 Nice to see you!
+## Hi there 👋 Nice to see you!
 ---
 ### Welcome to my page!
 I'm Kirill, passionate Front-end developer from  Lipetsk, Russia.
