@@ -26,7 +26,7 @@ What was used:
 - Git
 
 
-You can see all development process in a list of commits.
+You can see full development process in a list of commits.
 
 ### 💖  [E-commerce shop project](https://github.com/kirillmihalych/furniture-store)
 ### 💚  [Search GitHub profiles](https://github.com/kirillmihalych/search_users)
