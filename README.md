@@ -1,6 +1,4 @@
-## Hi there 👋 Nice to see you!
-
-### Welcome to my page!
+### Welcome to my page! 👋 
 
 I'm Kirill, self-taught Front-end developer from  Lipetsk, Russia.
 
