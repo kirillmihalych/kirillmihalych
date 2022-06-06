@@ -15,6 +15,16 @@ I'm Kirill, self-taught Front-end developer from  Lipetsk, Russia.
 ## My projects
 
 Here is my programming experience.
+What was used:
+- React
+- React Hooks
+- JavaScript (ES6+)
+- HTML & CSS
+- Redux Toolkit
+- React Router V6
+- Styled components
+- Git
+You can see all development process in a list of commits.
 
 ### 💖  [E-commerce shop project](https://github.com/kirillmihalych/furniture-store)
 ### 💚  [Search GitHub profiles](https://github.com/kirillmihalych/search_users)
