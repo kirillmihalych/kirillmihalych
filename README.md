@@ -24,6 +24,8 @@ What was used:
 - React Router V6
 - Styled components
 - Git
+
+
 You can see all development process in a list of commits.
 
 ### 💖  [E-commerce shop project](https://github.com/kirillmihalych/furniture-store)
