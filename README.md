@@ -17,10 +17,10 @@ Here is my programming experience.
 What was used:
 - React
 - React Hooks
-- JavaScript (ES6+)
-- HTML & CSS
 - Redux Toolkit
 - React Router V6
+- JavaScript (ES6+)
+- HTML & CSS
 - Styled components
 - Git
 
