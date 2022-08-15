@@ -19,8 +19,8 @@ What was used:
 - React Hooks
 - Redux Toolkit
 - React Router V6
-- JavaScript (ES6+)
 - HTML & CSS
+- JavaScript (ES6+)
 - Styled components
 - Git
 
