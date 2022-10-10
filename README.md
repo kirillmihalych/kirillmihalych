@@ -11,7 +11,7 @@ Currently, I am looking for a job where i can apply my skills as a professional.
 
 ## My projects :sunglasses:
 
-Here is my programming experience.
+Here is my programming experience.  
 You can see the full development process in a list of commits.
 
 ###  [GitHub profiles](https://github.com/kirillmihalych/github-profiles)
