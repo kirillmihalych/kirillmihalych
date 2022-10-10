@@ -1,6 +1,6 @@
 ### Welcome to my page! 👋 
 
-I am a self-taught Front-end developer from Russui,Lipetsk.  
+I am a self-taught Front-end developer from Russia, Lipetsk.    
 Enthusiastic programmer. Almost 2 years in programming.  
 Currently, I am looking for a job where i can apply my skills as a professional.
 
