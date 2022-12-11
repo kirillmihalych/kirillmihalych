@@ -2,7 +2,7 @@
 
 I am a self-taught Front-end developer from Russia, Lipetsk.    
 Enthusiastic programmer. Almost 2 years in programming.  
-Currently, I am looking for a job where i can apply my skills and grow as a professional.
+I am looking for a job where i can apply my skills and grow as a professional.
 
 ### My skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
