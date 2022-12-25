@@ -1,4 +1,4 @@
-## Welcome to my page! 👋 
+# Welcome to my page! 👋 
 
 I am a self-taught Front-end developer.
 
